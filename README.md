@@ -30,9 +30,9 @@ python bulbulator.py
 ```
 
 ## 🗺️ Roadmap
-- [X] **Task 1:** Add basic functionality
-- [ ] **Task 2:** Implement more than one device
-- [ ] **Task 3:** Add RGB Picker
-- [ ] **Task 4:** Add Flows
+- [X] Add basic functionality
+- [ ] Implement more than one device
+- [ ] Add RGB Picker
+- [ ] Add Flows
 
 
