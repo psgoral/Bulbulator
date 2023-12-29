@@ -1,6 +1,7 @@
 ## 📌 Overview
 
 Bulbulator is a MacOS tray app that allows users to control Yeelight Bulb. It utilizes essential dependencies like rumps and yeelight.
+<img width="246" alt="image" src="https://github.com/psgoral/Bulbulator/assets/36134475/0f1ae61d-ac94-412e-9e20-8e91c75afda2">
 
 ## 🔍 Table of Contents
 
@@ -11,6 +12,7 @@ Bulbulator is a MacOS tray app that allows users to control Yeelight Bulb. It ut
 * [🗺️ Roadmap](#roadmap)
 
 ## 💻 Stack
+
 
 - [rumps](https://github.com/jaredks/rumps): Creates macOS status bar applications.
 - [yeelight](https://github.com/skorokithakis/python-yeelight): Controls Yeelight smart bulbs.
