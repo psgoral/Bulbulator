@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 3.Start the development mode:
 ```bash
-python app.py
+python bulbulator.py
 ```
 
 ## 🗺️ Roadmap
